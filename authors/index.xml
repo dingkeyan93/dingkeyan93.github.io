@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Keyan Ding</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2018-2020 [Keyan Ding](/)</copyright><lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/title.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD student at the Department of Computer Science, City University of Hong Kong, supervised by &lt;a href=&#34;http://www.cs.cityu.edu.hk/~shiqwang&#34; target=&#34;_blank&#34;&gt;Dr. Shiqi Wang&lt;/a&gt; and &lt;a href=&#34;https://kedema.org/&#34; target=&#34;_blank&#34;&gt;Dr. Kede Ma&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Eero P. Simoncelli</title>
+      <link>/authors/eero-p.-simoncelli/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/eero-p.-simoncelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kede Ma</title>
+      <link>/authors/kede-ma/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/kede-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shiqi Wang</title>
+      <link>/authors/shiqi-wang/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/shiqi-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ronggang Wang</title>
+      <link>/authors/ronggang-wang/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/ronggang-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guirong Weng</title>
+      <link>/authors/guirong-weng/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/guirong-weng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linfang Xiao</title>
+      <link>/authors/linfang-xiao/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/authors/linfang-xiao/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

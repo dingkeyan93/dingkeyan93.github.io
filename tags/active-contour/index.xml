@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>active contour | Keyan Ding</title>
+    <link>/tags/active-contour/</link>
+      <atom:link href="/tags/active-contour/index.xml" rel="self" type="application/rss+xml" />
+    <description>active contour</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2018-2020 [Keyan Ding](/)</copyright><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/title.png</url>
+      <title>active contour</title>
+      <link>/tags/active-contour/</link>
+    </image>
+    
+    <item>
+      <title>Segmentation by Active Contours</title>
+      <link>/research/active_contours/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/research/active_contours/</guid>
+      <description>
+
+&lt;p&gt;Image segmentation is an important and complex task in the field of image processing and computer vision. It plays an important role in automatic driving, 3D reconstruction and medical image analysis. In recent years, the image segmentation method based on active contour model has developed rapidly due to the advantages that it can obtain the sub-pixel accuracy of target boundary and provide smooth closed contour as segmentation results, which is contribute to further image analysis and recognition.
+This paper studies the active contour model based on local region fitting energy. The traditional local fitting model can effectively segment images with intensity inhomogeneity, but their segmentation speed is slow and sensitive to the initial contour. To solve these problems, three improved models are proposed in this paper:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The model driven by local fitting energy with the same direction.&lt;/li&gt;
+&lt;li&gt;The model combined local region fitting energy and optimized LoG energy.&lt;/li&gt;
+&lt;li&gt;The model driven by local pre-fitting energy.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The experimental results have showed that above three improved methods can effectively segment the images with intensity inhomogeneity, and have a good segmentation results for the images with weak edges and noises.&lt;/p&gt;
+
+&lt;h5 id=&#34;see-the-thesis-for-more-details&#34;&gt;See the thesis for more details.&lt;/h5&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

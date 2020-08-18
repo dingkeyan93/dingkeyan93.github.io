@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Keyan Ding</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Keyan Ding</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2018-2020 [Keyan Ding](/)</copyright><lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/title.png</url>
+      <title>Keyan Ding</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of Image Quality Models for Optimization of Image Processing Systems</title>
+      <link>/publication/iqa_optimization/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/iqa_optimization/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image Quality Assessment</title>
+      <link>/research/iqa/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/research/iqa/</guid>
+      <description>&lt;p&gt;Image quality assessment (IQA) aims to quantify human perception of image quality. The development of objective IQA metrics is a fundamental problem for both human and computational vision, and is of paramount importance in a variety of real-world applications, such as image restoration, object recognition, medical imaging, and visual surveillance.&lt;/p&gt;
+
+&lt;p&gt;In the past decades, most proposed IQA methods are highly sensitive to differences between images of the same texture, even when these are nearly indistinguishable to a human observer. The underlying reason is the reliance on perfect alignment. Two samples of the same texture (e.g., two cropped regions taken from an image of a field of flowers) will differ substantially in the precise arrangement of their features, but can appear nearly the same to the human visual system (HVS). We present the first full-reference IQA metric that is invariant to visually similar textures and insensitive to mild local and global geometric distortions —— &lt;a href=&#34;https://arxiv.org/abs/2004.07728&#34; target=&#34;_blank&#34;&gt;Deep Image Structure and Texture Similarity (DISTS) index&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image Quality Assessment: Unifying Structure and Texture Similarity</title>
+      <link>/publication/iqa_dists/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/iqa_dists/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intrinsic Image Popularity Assessment</title>
+      <link>/publication/popularity_mm2019/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/popularity_mm2019/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Social Media Popularity Prediction: A Multiple Feature Fusion Approach with Deep Neural Networks</title>
+      <link>/publication/popularitychallenge_mm2019/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/popularitychallenge_mm2019/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image Popularity Prediction</title>
+      <link>/research/popularity/</link>
+      <pubDate>Thu, 27 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/research/popularity/</guid>
+      <description>&lt;p&gt;With over 1 billion active users sharing photos on Instagram, knowing the popularity of images has attractive applications in marketing, advertising, recommendation and so on. In this research we present a model to investigate the intrinsic image popularity by collecting a large-scale dataset with 150 million posts from Instagram. Experiments have demonstrated that the proposed model outperform state-of-the-art and human level. As a practical application, our work can help users to choose the image that has best potential to be popular on Instagram.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active Contours driven by Local Pre-Fitting Energy for Fast Image Segmentation</title>
+      <link>/publication/acm_lpf_prl2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/acm_lpf_prl2018/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Active contours driven by region-scalable fitting and optimized Laplacian of Gaussian energy for image segmentation</title>
+      <link>/publication/acm_log_sp2017/</link>
+      <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/acm_log_sp2017/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Segmentation by Active Contours</title>
+      <link>/research/active_contours/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/research/active_contours/</guid>
+      <description>
+
+&lt;p&gt;Image segmentation is an important and complex task in the field of image processing and computer vision. It plays an important role in automatic driving, 3D reconstruction and medical image analysis. In recent years, the image segmentation method based on active contour model has developed rapidly due to the advantages that it can obtain the sub-pixel accuracy of target boundary and provide smooth closed contour as segmentation results, which is contribute to further image analysis and recognition.
+This paper studies the active contour model based on local region fitting energy. The traditional local fitting model can effectively segment images with intensity inhomogeneity, but their segmentation speed is slow and sensitive to the initial contour. To solve these problems, three improved models are proposed in this paper:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;The model driven by local fitting energy with the same direction.&lt;/li&gt;
+&lt;li&gt;The model combined local region fitting energy and optimized LoG energy.&lt;/li&gt;
+&lt;li&gt;The model driven by local pre-fitting energy.
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The experimental results have showed that above three improved methods can effectively segment the images with intensity inhomogeneity, and have a good segmentation results for the images with weak edges and noises.&lt;/p&gt;
+
+&lt;h5 id=&#34;see-the-thesis-for-more-details&#34;&gt;See the thesis for more details.&lt;/h5&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Robust active contours for fast image segmentation</title>
+      <link>/publication/acm_el2016/</link>
+      <pubDate>Thu, 29 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/acm_el2016/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

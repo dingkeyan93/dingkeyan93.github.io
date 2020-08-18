@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Keyan Ding</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2018-2020 [Keyan Ding](/)</copyright><lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/title.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>deep neural network</title>
+      <link>/tags/deep-neural-network/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/deep-neural-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IQA</title>
+      <link>/tags/iqa/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/iqa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perceptual optimization</title>
+      <link>/tags/perceptual-optimization/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/perceptual-optimization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>performance evaluation</title>
+      <link>/tags/performance-evaluation/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/performance-evaluation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DISTS</title>
+      <link>/tags/dists/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/dists/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>structure</title>
+      <link>/tags/structure/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/structure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>texture</title>
+      <link>/tags/texture/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/texture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>structure similarity</title>
+      <link>/tags/structure-similarity/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/structure-similarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>texture similarity</title>
+      <link>/tags/texture-similarity/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/texture-similarity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image popularity</title>
+      <link>/tags/image-popularity/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/image-popularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social media</title>
+      <link>/tags/social-media/</link>
+      <pubDate>Wed, 23 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/social-media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>active contours</title>
+      <link>/tags/active-contours/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/active-contours/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>image segmentation</title>
+      <link>/tags/image-segmentation/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/image-segmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>active contour</title>
+      <link>/tags/active-contour/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>/tags/active-contour/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

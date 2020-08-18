@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IQA | Keyan Ding</title>
+    <link>/tags/iqa/</link>
+      <atom:link href="/tags/iqa/index.xml" rel="self" type="application/rss+xml" />
+    <description>IQA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2018-2020 [Keyan Ding](/)</copyright><lastBuildDate>Mon, 04 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/title.png</url>
+      <title>IQA</title>
+      <link>/tags/iqa/</link>
+    </image>
+    
+    <item>
+      <title>Comparison of Image Quality Models for Optimization of Image Processing Systems</title>
+      <link>/publication/iqa_optimization/</link>
+      <pubDate>Mon, 04 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/iqa_optimization/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image Quality Assessment</title>
+      <link>/research/iqa/</link>
+      <pubDate>Thu, 23 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/research/iqa/</guid>
+      <description>&lt;p&gt;Image quality assessment (IQA) aims to quantify human perception of image quality. The development of objective IQA metrics is a fundamental problem for both human and computational vision, and is of paramount importance in a variety of real-world applications, such as image restoration, object recognition, medical imaging, and visual surveillance.&lt;/p&gt;
+
+&lt;p&gt;In the past decades, most proposed IQA methods are highly sensitive to differences between images of the same texture, even when these are nearly indistinguishable to a human observer. The underlying reason is the reliance on perfect alignment. Two samples of the same texture (e.g., two cropped regions taken from an image of a field of flowers) will differ substantially in the precise arrangement of their features, but can appear nearly the same to the human visual system (HVS). We present the first full-reference IQA metric that is invariant to visually similar textures and insensitive to mild local and global geometric distortions —— &lt;a href=&#34;https://arxiv.org/abs/2004.07728&#34; target=&#34;_blank&#34;&gt;Deep Image Structure and Texture Similarity (DISTS) index&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Image Quality Assessment: Unifying Structure and Texture Similarity</title>
+      <link>/publication/iqa_dists/</link>
+      <pubDate>Thu, 16 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/iqa_dists/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
